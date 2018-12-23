@@ -1,4 +1,5 @@
 // Global app controller
 import x from './test';
 
-console.log(`i imported ${x} called test.js`);
+const num = 90;
+console.log(`i imported ${x} called test.js and ${num}`);
